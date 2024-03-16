@@ -171,27 +171,3 @@ def create_palace(fID, PAO = True):
 		P.rooms[room_name] = new_room
 
 	return P
-
-
-if __name__ == "__main__":
-	
-
-	Atlantis = create_palace("./input_files/Atlantis.xml")
-	Atlantis.generate_decimals('e')
-	Atlantis.palace_to_anki(
-		deck_name = 'Decimaler::e',
-		note_type = 'Kort med locus-visa locus',
-		fID = './txt_files_anki/e_decimals.txt',
-		n = 9, skipped_decimals = 0
-	)
-
-
-	skip_first = 2
-	Cyber_Egypt = create_palace("./input_files/Cyber_Egypt.xml")
-	Cyber_Egypt.generate_decimals('pi',skip_first=skip_first)
-	Cyber_Egypt.palace_to_anki(
-		deck_name = 'Decimaler::π',
-		note_type = 'Kort med locus-visa locus',
-		fID = './txt_files_anki/π_decimals.txt',
-		skipped_decimals=skip_first
-	)
