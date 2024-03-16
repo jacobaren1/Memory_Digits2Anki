@@ -1,0 +1,234 @@
+<palace name="Cyber Egypt">
+    <room name="Mummification room">
+        <locus>Ritual Jar</locus>
+        <locus>Incense Burner</locus>
+        <locus>Mummification table</locus>
+        <locus>Mummy</locus>
+        <locus>Sarcophagus</locus>
+    </room>
+    <room name="Queen's Tomb">
+        <locus>Queen Statue</locus>
+        <locus>Golden Vase</locus>
+        <locus>Looted Tomb</locus>
+        <locus>Bench</locus>
+        <locus>Mirror</locus>
+    </room>
+    <room name="King's Tomb">
+        <locus>Amun Statue</locus>
+        <locus>Round Axe</locus>
+        <locus>Shield</locus>
+        <locus>Treasure Chest</locus>
+        <locus>Tall Lamp</locus>
+        <locus>King's Sarcophagus</locus>
+        <locus>King's Bust</locus>
+        <locus>King chair</locus>
+        <locus>Golden Sandals</locus>
+        <locus>Afterlife Servant Statue</locus>
+    </room>
+    <room name="Library">
+        <locus>Vase Plant</locus>
+        <locus>Stone Tablet</locus>
+        <locus>Reading Table</locus>
+        <locus>Papyrus Stack</locus>
+        <locus>Reading Bench</locus>
+        <locus>Floor Cushion</locus>
+        <locus>Headrest</locus>
+        <locus>Bookshelf</locus>
+        <locus>Step Ladder</locus>
+        <locus>Papyrus scroll</locus>
+    </room>
+    <room name="Kitchen">
+        <locus>Grain Bag</locus>
+        <locus>Prep Table</locus>
+        <locus>Fruit Bowl</locus>
+        <locus>Bread</locus>
+        <locus>Knife</locus>
+        <locus>Firewood</locus>
+        <locus>Oven</locus>
+        <locus>Pot</locus>
+        <locus>Veggie Frying Pan</locus>
+        <locus>Small Table</locus>
+        <locus>Egg Bowl</locus>
+        <locus>Nesting Chicken</locus>
+        <locus>Flour Sack</locus>
+        <locus>Mashing Pot</locus>
+        <locus>Wine Container</locus>
+    </room>
+    <room name="Armory">
+        <locus>Armor Mannequin</locus>
+        <locus>Chariot</locus>
+        <locus>Army Banner</locus>
+        <locus>Spears</locus>
+        <locus>Training Target</locus>
+        <locus>Arrows Quiver</locus>
+        <locus>Bow</locus>
+        <locus>Throwing Axe</locus>
+        <locus>Sparring Area</locus>
+        <locus>Throwing Stick</locus>
+        <locus>Dagger</locus>
+        <locus>Helmet</locus>
+        <locus>Punching Bags</locus>
+        <locus>Montu Statue (God of War)</locus>
+        <locus>Sickle Swords</locus>
+    </room>
+    <room name="Priests Study">
+        <locus>Ankh Staff</locus>
+        <locus>Drawer</locus>
+        <locus>Ram Skull</locus>
+        <locus>Anubis Helmet</locus>
+        <locus>Ink Pot</locus>
+        <locus>Feather Pen</locus>
+        <locus>Bookcase</locus>
+        <locus>Portal Controller</locus>
+        <locus>Portal</locus>
+        <locus>Mummy Arm</locus>
+        <locus>Spell Book</locus>
+        <locus>Black Table</locus>
+        <locus>Trophy Scarab</locus>
+        <locus>Priest's Amulet</locus>
+        <locus>Priest's Robe</locus>
+    </room>
+    <room name="Dining Room">
+        <locus>Olive Oil</locus>
+        <locus>Golden Bowl</locus>
+        <locus>Podium Stand</locus>
+        <locus>Salt Container</locus>
+        <locus>Cow God Statue</locus>
+        <locus>Wall Shelf</locus>
+        <locus>Mango Platter</locus>
+        <locus>Plate</locus>
+        <locus>Bread Basket</locus>
+        <locus>Waste Disposal</locus>
+        <locus>Dining Table</locus>
+        <locus>Fork and Knife</locus>
+        <locus>Turkey</locus>
+        <locus>Salad</locus>
+        <locus>Chair</locus>
+        <locus>Food Wagon</locus>
+        <locus>Jelly Dessert</locus>
+        <locus>Wine Bottle</locus>
+        <locus>Wine Cup</locus>
+        <locus>Plant Vase</locus>
+    </room>
+    <room name="Servant's Chamber">
+        <locus>Servant Statue</locus>
+        <locus>Wooden Coffin</locus>
+        <locus>Food Plate</locus>
+        <locus>Wooden Cup</locus>
+        <locus>Eternal Fire</locus>
+    </room>
+    <room name="Servant's Bedroom">
+        <locus>Nail Carpet</locus>
+        <locus>Meditation Hexogram</locus>
+        <locus>Security Camera</locus>
+        <locus>Washing Bowl</locus>
+        <locus>Marble Table</locus>
+        <locus>Tracking Necklace</locus>
+        <locus>Sickle</locus>
+        <locus>Servant's bed</locus>
+        <locus>Backpack Basket</locus>
+        <locus>Lady of the Temple</locus>
+    </room>
+    <room name="Music Chamber">
+        <locus>Soft Chair</locus>
+        <locus>Lyre</locus>
+        <locus>Sistrum Egyptian Instrument</locus>
+        <locus>Headphones</locus>
+        <locus>Note Stand</locus>
+        <locus>Vertical Flute</locus>
+        <locus>Goddess of Music (Harthor)</locus>
+        <locus>Harp</locus>
+        <locus>Musician Stool</locus>
+        <locus>Marimba</locus>
+    </room>
+    <room name="Altar Room">
+        <locus>Large Vase</locus>
+        <locus>Pharaoh's Staff</locus>
+        <locus>Throne</locus>
+        <locus>Footstool</locus>
+        <locus>Ibis Statue</locus>
+        <locus>Antelope Statue</locus>
+        <locus>Large Offering Plate</locus>
+        <locus>Ceremonial Dagger</locus>
+        <locus>Altar</locus>
+        <locus>Trophy Cup</locus>
+        <locus>Censer</locus>
+        <locus>Candelabrum</locus>
+        <locus>Falcon God Statue</locus>
+        <locus>Cat-Shaped Bush</locus>
+        <locus>Watering Jar</locus>
+    </room>
+    <room name="Tailor's Room">
+        <locus>Levitating Octahedron</locus>
+        <locus>Tailor's Table</locus>
+        <locus>Spinning Spool</locus>
+        <locus>Thread Spool</locus>
+        <locus>Mirror Display</locus>
+        <locus>Fitting Mannequin</locus>
+        <locus>Cloak</locus>
+        <locus>Goddes of Weaving (Neith)</locus>
+        <locus>Fabric Replicator</locus>
+        <locus>Spindle</locus>
+        <locus>Netting Needle</locus>
+        <locus>Ground Loom</locus>
+        <locus>Laundry Basket</locus>
+        <locus>Laundry Bat</locus>
+        <locus>Clothesline</locus>
+    </room>
+    <room name="Masters Bedroom">
+        <locus>Sitting Nephthyys</locus>
+        <locus>Pyramid Projection</locus>
+        <locus>Luxury Cabinet</locus>
+        <locus>Grape Plate</locus>
+        <locus>Glass Bottle</locus>
+        <locus>Drinking Glass</locus>
+        <locus>Palm Vase</locus>
+        <locus>Bed</locus>
+        <locus>King's Chest</locus>
+        <locus>Night Table</locus>
+        <locus>Pharaoh Helmet</locus>
+        <locus>Hairbrush</locus>
+        <locus>Bronze Bottle</locus>
+        <locus>Fan</locus>
+        <locus>Lounge Chair</locus>
+    </room>
+    <room name="Architects Workshop">
+        <locus>Stone Chisel</locus>
+        <locus>Pyramid Model</locus>
+        <locus>Architects Desk</locus>
+        <locus>Architect's Chair</locus>
+        <locus>Blueprint Drawing</locus>
+        <locus>Triangle Tool</locus>
+        <locus>Drafting Board</locus>
+        <locus>Wall Lamp</locus>
+        <locus>Cupboard for Instruments</locus>
+        <locus>God of Artists (Ptah)</locus>
+        <locus>Manuscript Cabinet</locus>
+        <locus>Caly Sphinkx Model</locus>
+        <locus>Bubble Level</locus>
+        <locus>City Square Model</locus>
+        <locus>Obelisk</locus>
+    </room>
+    <room name="Sculptor's Workshop">
+        <locus>Futuristic Kiln</locus>
+        <locus>In-progress Sculpture</locus>
+        <locus>Sculpting Loop Tool</locus>
+        <locus>Broom</locus>
+        <locus>Sci-fi Sculpture</locus>
+        <locus>Pharaoh Figurine</locus>
+        <locus>Sculptor's Table</locus>
+        <locus>Sci-fi Drill</locus>
+        <locus>Wooden Hammer</locus>
+        <locus>Sci-fi Dagger</locus>
+        <locus>Floating Shelf</locus>
+        <locus>Work Box</locus>
+        <locus>Measuring Tool</locus>
+        <locus>Queen Bust</locus>
+        <locus>Queen Sketch</locus>
+        <locus>Sculptor's Stool</locus>
+        <locus>Easel</locus>
+        <locus>Paint Palette</locus>
+        <locus>Paintbrush</locus>
+        <locus>Brush Cleaning Jar</locus>
+    </room>
+</palace>

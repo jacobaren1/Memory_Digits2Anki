@@ -1,0 +1,234 @@
+<palace name="Atlantis">
+    <room name="Traveler's Room">
+        <locus>Shell Stand</locus>
+        <locus>Globe</locus>
+        <locus>City Model</locus>
+        <locus>City Key</locus>
+        <locus>Compass</locus>
+    </room>
+    <room name="Architect's Room">
+        <locus>Drawing Table</locus>
+        <locus>Drawing Compass</locus>
+        <locus>Plumb Line</locus>
+        <locus>Construction Stone</locus>
+        <locus>Stone Chisel</locus>
+    </room>
+    <room name="Guard's Room">
+        <locus>Spears</locus>
+        <locus>Chest</locus>
+        <locus>Lock</locus>
+        <locus>Shell Sword</locus>
+        <locus>Seahorse Shield</locus>
+        <locus>Bunk Bed</locus>
+        <locus>Trident Dagger</locus>
+        <locus>Uncle Atlas Poster</locus>
+        <locus>Water Barrel</locus>
+        <locus>Drinking Glass</locus>
+    </room>
+    <room name="Music Room">
+        <locus>Instrument Stand</locus>
+        <locus>Flute</locus>
+        <locus>Harpist Statuette</locus>
+        <locus>Harp</locus>
+        <locus>Harp Stool</locus>
+        <locus>Conga Drum</locus>
+        <locus>Metronome</locus>
+        <locus>Note Stand</locus>
+        <locus>Musical Blackboard</locus>
+        <locus>Seashell Horn</locus>
+    </room>
+    <room name="Relaxation Room">
+        <locus>Round Table</locus>
+        <locus>Wine Decanter</locus>
+        <locus>Wine Glass</locus>
+        <locus>Fruit Bowl</locus>
+        <locus>Rest Chair</locus>
+        <locus>Bookshelf</locus>
+        <locus>Music Box</locus>
+        <locus>Seahorse Fountain</locus>
+        <locus>Purple Rug</locus>
+        <locus>Pillows</locus>
+        <locus>Playing Cards</locus>
+        <locus>Turtle Painting</locus>
+        <locus>Flower Pot</locus>
+        <locus>Red Chair</locus>
+        <locus>Chimes</locus>
+    </room>
+    <room name="Artist's Workshop">
+        <locus>Artist's Shelf</locus>
+        <locus>Painter Brush</locus>
+        <locus>Head Mold</locus>
+        <locus>Painted Turtle Shell</locus>
+        <locus>Paint Jars</locus>
+        <locus>Wrapped Canvas</locus>
+        <locus>Drawing Mannequin</locus>
+        <locus>Painter's Table</locus>
+        <locus>Paint Palette</locus>
+        <locus>Brushes</locus>
+        <locus>Palette Knife</locus>
+        <locus>Painter's Stand</locus>
+        <locus>Still Life Objects</locus>
+        <locus>Easel</locus>
+        <locus>Palace Painting</locus>
+    </room>
+    <room name="Jewelry Workshop">
+        <locus>Jewelry Stand</locus>
+        <locus>Wrist Bracelet</locus>
+        <locus>Golden Turtle</locus>
+        <locus>Pearl Necklace</locus>
+        <locus>Jewelry Shelf</locus>
+        <locus>Gems</locus>
+        <locus>Gold</locus>
+        <locus>Jewelry Cabinet</locus>
+        <locus>Hand Drill</locus>
+        <locus>Scales</locus>
+        <locus>Melting Furnace</locus>
+        <locus>Clamps</locus>
+        <locus>Box of Pearls</locus>
+        <locus>Whetstone Table</locus>
+        <locus>Magnifying Glass</locus>
+        <locus>Ring Sketch</locus>
+        <locus>Ring</locus>
+        <locus>Jewelry Pilers</locus>
+        <locus>Chair</locus>
+        <locus>Jellyfish Lamp</locus>
+    </room>
+    <room name="Kitchen">
+        <locus>Supply Crates</locus>
+        <locus>Veggie Basket</locus>
+        <locus>Flour</locus>
+        <locus>Prep Table</locus>
+        <locus>Olive Oil</locus>
+        <locus>Cutting Board</locus>
+        <locus>Kitchen Knife</locus>
+        <locus>Spices</locus>
+        <locus>Shelf with Plates</locus>
+        <locus>Fish Freezer</locus>
+        <locus>Dirty Dishes</locus>
+        <locus>Butter Maker</locus>
+        <locus>Fishface Fireplace</locus>
+        <locus>Pan</locus>
+        <locus>Kettle</locus>
+        <locus>Soup Pot</locus>
+        <locus>Kitchen Tools</locus>
+        <locus>Wood Oven</locus>
+        <locus>Loaf of Bread</locus>
+        <locus>Air Blower</locus>
+    </room>
+    <room name="Theatre">
+        <locus>Stage</locus>
+        <locus>Column Prop</locus>
+        <locus>Props Box</locus>
+        <locus>Masks</locus>
+        <locus>Theatre Seats</locus>
+    </room>
+    <room name="Aquarium">
+        <locus>Fish Tank</locus>
+        <locus>Steps</locus>
+        <locus>Fish Net</locus>
+        <locus>Fish Food</locus>
+        <locus>Bucket</locus>
+    </room>
+    <room name="Fisherman's Room">
+        <locus>Hammock</locus>
+        <locus>Fishing Chest</locus>
+        <locus>Tabacco Pipe</locus>
+        <locus>Shark Hook</locus>
+        <locus>Rope</locus>
+        <locus>Harpoon</locus>
+        <locus>Shark Trophy</locus>
+        <locus>Fishing Net</locus>
+        <locus>Fishing Rod</locus>
+        <locus>Scuba Helmet</locus>
+    </room>
+    <room name="Sea Garden">
+        <locus>Coral Grower</locus>
+        <locus>Watering Can</locus>
+        <locus>Sea Palm</locus>
+        <locus>Algoe Tube</locus>
+        <locus>Aqua Garden Bed</locus>
+        <locus>Hand Rake</locus>
+        <locus>Planter Table</locus>
+        <locus>Garden Scissors</locus>
+        <locus>Seeds</locus>
+        <locus>Hand Digger</locus>
+    </room>
+    <room name="Royal Bedroom">
+        <locus>Fish Bowl Stand</locus>
+        <locus>Makeup Table</locus>
+        <locus>Comb</locus>
+        <locus>Hair Pin</locus>
+        <locus>Perfume</locus>
+        <locus>Makeup Chair</locus>
+        <locus>Trident</locus>
+        <locus>Work Desk</locus>
+        <locus>Trident Stamp</locus>
+        <locus>Nautilus Shell Cup</locus>
+        <locus>Candle Holder</locus>
+        <locus>Work Chair</locus>
+        <locus>Bed</locus>
+        <locus>Bedside Bench</locus>
+        <locus>Royal Wardrobe</locus>
+    </room>
+    <room name="Kid's Room">
+        <locus>Cradle</locus>
+        <locus>Changing Table</locus>
+        <locus>Baby Dresser</locus>
+        <locus>Whale Rattle</locus>
+        <locus>Toy Houses</locus>
+        <locus>Play Table</locus>
+        <locus>Toy Sward</locus>
+        <locus>Matching Cubes Game</locus>
+        <locus>Spinning Top</locus>
+        <locus>Kid Bed</locus>
+        <locus>Orca Plush Toy</locus>
+        <locus>Mermaid Plush Toy</locus>
+        <locus>Seahorse Spring</locus>
+        <locus>Slide</locus>
+        <locus>Ball</locus>
+    </room>
+    <room name="Wizardy Room">
+        <locus>Seashell Staff</locus>
+        <locus>Reading Bench</locus>
+        <locus>Wizard Hat</locus>
+        <locus>Wizard Mantle</locus>
+        <locus>Whirpool</locus>
+        <locus>Hanging Shelves</locus>
+        <locus>Two Potions</locus>
+        <locus>Locked Tube</locus>
+        <locus>Chemistry Books</locus>
+        <locus>Crab Amulet</locus>
+        <locus>Potion Stand</locus>
+        <locus>Wooden Stove</locus>
+        <locus>Distiller</locus>
+        <locus>Potion Pot</locus>
+        <locus>Blackboard</locus>
+        <locus>Corner Desk</locus>
+        <locus>Waterproof Scroll</locus>
+        <locus>Chemical Container</locus>
+        <locus>Tablet Artifact</locus>
+        <locus>Sphere Lamp</locus>
+    </room>
+    <room name="Museum">
+        <locus>Astrolabe Compass</locus>
+        <locus>Lifting Hook</locus>
+        <locus>Message in a Bottle</locus>
+        <locus>Anchor</locus>
+        <locus>Pirate Spyglass</locus>
+        <locus>Treasure Map</locus>
+        <locus>Rack Display</locus>
+        <locus>Pirate Hook</locus>
+        <locus>Pirate Hat</locus>
+        <locus>Mug with Coins</locus>
+        <locus>Cannon Balls</locus>
+        <locus>Sun Cover</locus>
+        <locus>Ship Bell</locus>
+        <locus>Cannon</locus>
+        <locus>Ship Ram</locus>
+        <locus>Rum Box</locus>
+        <locus>Paddle</locus>
+        <locus>Steering Wheel</locus>
+        <locus>Cork Life Jacket</locus>
+        <locus>Ship Model</locus>
+    </room>
+</palace>
