@@ -22,6 +22,8 @@ class Palace(object):
 		self.n_loci = 0
 		self.locus_list = []
 
+	def __str__(self):
+		return f"Memory Palace: {self.name} # loci: f{self.n_loci}"
 
 	def display_info(self):
 		s = (f'{self.name} is a palace with {len(self.rooms)} rooms '
@@ -35,49 +37,15 @@ class Palace(object):
 
 				self.locus_list.append( locus.info )
 
-	def guess_before_after(self):
-
-		guess_next = bool(randint(0,2))
-		shift = guess_next - (guess_next==0)
-
-		int_ref = randint(0,self.n_loci + 1)
-		int_guess = int_ref + shift
-
-		
-		if int_guess == self.n_loci:
-			
-			int_ref = 1
-			int_guess = 0
-			guess_next = False
-
-		elif int_guess == -1:
-			
-			int_ref = n_loci - 2
-			int_guess = n_loci - 1
-			guess_next = True
-
-		before_after = ["before","after"][guess_next]
-		ref_value = self.locus_list[int_ref]
-		corr_guess = self.locus_list[int_guess]
-
-		msg = "What decimals comes %s %s? (enter x to quit)\n\t" %(before_after,ref_value)
-		ans = input( msg )
-		if ans == 'x':
-			pass
-		else:
-			if ans == corr_guess:
-				print(f"\tNice work! {ans} comes {before_after} {ref_value}\n\n")
-			else:
-				print(f"\tNOOB, You guessed wrong! Correct answer is {corr_guess}!\n\n")
-
-			self.guess_before_after()
-
 
 class PAO_palace(Palace):
 
 	def __init__(self,name):
 		Palace.__init__(self,name)
 
+
+	def __str__(self):
+		return f"PAO Memory Palace: {self.name} # loci: f{self.n_loci}"
 
 	def palace_to_anki(self,deck_name,note_type,fID,n = 9, skipped_decimals = 0):
 		header = (
@@ -119,6 +87,44 @@ class PAO_palace(Palace):
 			for locus_name,locus in room.loci.items():
 				locus.info = digits[n*x:n*(x+1)]
 				x+=1
+
+
+	def guess_before_after(self):
+
+		guess_next = bool(randint(0,2))
+		shift = guess_next - (guess_next==0)
+
+		int_ref = randint(0,self.n_loci + 1)
+		int_guess = int_ref + shift
+
+		
+		if int_guess == self.n_loci:
+			
+			int_ref = 1
+			int_guess = 0
+			guess_next = False
+
+		elif int_guess == -1:
+			
+			int_ref = n_loci - 2
+			int_guess = n_loci - 1
+			guess_next = True
+
+		before_after = ["before","after"][guess_next]
+		ref_value = self.locus_list[int_ref]
+		corr_guess = self.locus_list[int_guess]
+
+		msg = "What decimals comes %s %s? (enter x to quit)\n\t" %(before_after,ref_value)
+		ans = input( msg )
+		if ans == 'x':
+			pass
+		else:
+			if ans == corr_guess:
+				print(f"\tNice work! {ans} comes {before_after} {ref_value}\n\n")
+			else:
+				print(f"\tNOOB, You guessed wrong! Correct answer is {corr_guess}!\n\n")
+
+			self.guess_before_after()
 
 
 class Room(object):
