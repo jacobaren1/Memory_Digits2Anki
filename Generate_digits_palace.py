@@ -121,8 +121,6 @@ class PAO_palace(Palace):
 				x+=1
 
 
-
-
 class Room(object):
 
 	def __init__(self,name):
@@ -180,15 +178,19 @@ if __name__ == "__main__":
 
 	Atlantis = create_palace("Atlantis.xml")
 	Atlantis.generate_decimals('e')
-	Atlantis.palace_to_anki('Decimaler::e','Kort med locus-visa locus','e_anki.txt')
+	Atlantis.palace_to_anki(
+		deck_name = 'Decimaler::e',
+		note_type = 'Kort med locus-visa locus',
+		fID = 'e_anki.txt', n = 9, skipped_decimals = 0
+	)
 
 
 	skip_first = 2
 	Cyber_Egypt = create_palace("Cyber_Egypt.xml")
 	Cyber_Egypt.generate_decimals('pi',skip_first=skip_first)
-	Cyber_Egypt.palace_to_anki('Decimaler::π','Kort med locus-visa locus','π_anki.txt',skipped_decimals=skip_first)
-
-
-
-# Cyber_Eqypt = read_2_palace()
-# Cyber_Eqypt.palace_to_anki("Pi","Kort med locus-visa locus","Pi_anki.txt",skipped_decimals=2)
+	Cyber_Egypt.palace_to_anki(
+		deck_name = 'Decimaler::π',
+		note_type = 'Kort med locus-visa locus',
+		fID = 'π_anki.txt',
+		skipped_decimals=skip_first
+	)
