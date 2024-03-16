@@ -1,0 +1,204 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck column:2
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1 - 9	Traveler's Room : Shell Stand (1)	718281828
+Kort med locus-visa locus	Decimaler::e	Decimal nr 10 - 18	Traveler's Room : Globe (2)	459045235
+Kort med locus-visa locus	Decimaler::e	Decimal nr 19 - 27	Traveler's Room : City Model (3)	360287471
+Kort med locus-visa locus	Decimaler::e	Decimal nr 28 - 36	Traveler's Room : City Key (4)	352662497
+Kort med locus-visa locus	Decimaler::e	Decimal nr 37 - 45	Traveler's Room : Compass (5)	757247093
+Kort med locus-visa locus	Decimaler::e	Decimal nr 46 - 54	Architect's Room : Drawing Table (1)	699959574
+Kort med locus-visa locus	Decimaler::e	Decimal nr 55 - 63	Architect's Room : Drawing Compass (2)	966967627
+Kort med locus-visa locus	Decimaler::e	Decimal nr 64 - 72	Architect's Room : Plumb Line (3)	724076630
+Kort med locus-visa locus	Decimaler::e	Decimal nr 73 - 81	Architect's Room : Construction Stone (4)	353547594
+Kort med locus-visa locus	Decimaler::e	Decimal nr 82 - 90	Architect's Room : Stone Chisel (5)	571382178
+Kort med locus-visa locus	Decimaler::e	Decimal nr 91 - 99	Guard's Room : Spears (1)	525166427
+Kort med locus-visa locus	Decimaler::e	Decimal nr 100 - 108	Guard's Room : Chest (2)	427466391
+Kort med locus-visa locus	Decimaler::e	Decimal nr 109 - 117	Guard's Room : Lock (3)	932003059
+Kort med locus-visa locus	Decimaler::e	Decimal nr 118 - 126	Guard's Room : Shell Sword (4)	921817413
+Kort med locus-visa locus	Decimaler::e	Decimal nr 127 - 135	Guard's Room : Seahorse Shield (5)	596629043
+Kort med locus-visa locus	Decimaler::e	Decimal nr 136 - 144	Guard's Room : Bunk Bed (6)	572900334
+Kort med locus-visa locus	Decimaler::e	Decimal nr 145 - 153	Guard's Room : Trident Dagger (7)	295260595
+Kort med locus-visa locus	Decimaler::e	Decimal nr 154 - 162	Guard's Room : Uncle Atlas Poster (8)	630738132
+Kort med locus-visa locus	Decimaler::e	Decimal nr 163 - 171	Guard's Room : Water Barrel (9)	328627943
+Kort med locus-visa locus	Decimaler::e	Decimal nr 172 - 180	Guard's Room : Drinking Glass (10)	490763233
+Kort med locus-visa locus	Decimaler::e	Decimal nr 181 - 189	Music Room : Instrument Stand (1)	829880753
+Kort med locus-visa locus	Decimaler::e	Decimal nr 190 - 198	Music Room : Flute (2)	195251019
+Kort med locus-visa locus	Decimaler::e	Decimal nr 199 - 207	Music Room : Harpist Statuette (3)	011573834
+Kort med locus-visa locus	Decimaler::e	Decimal nr 208 - 216	Music Room : Harp (4)	187930702
+Kort med locus-visa locus	Decimaler::e	Decimal nr 217 - 225	Music Room : Harp Stool (5)	154089149
+Kort med locus-visa locus	Decimaler::e	Decimal nr 226 - 234	Music Room : Conga Drum (6)	934884167
+Kort med locus-visa locus	Decimaler::e	Decimal nr 235 - 243	Music Room : Metronome (7)	509244761
+Kort med locus-visa locus	Decimaler::e	Decimal nr 244 - 252	Music Room : Note Stand (8)	460668082
+Kort med locus-visa locus	Decimaler::e	Decimal nr 253 - 261	Music Room : Musical Blackboard (9)	264800168
+Kort med locus-visa locus	Decimaler::e	Decimal nr 262 - 270	Music Room : Seashell Horn (10)	477411853
+Kort med locus-visa locus	Decimaler::e	Decimal nr 271 - 279	Relaxation Room : Round Table (1)	742345442
+Kort med locus-visa locus	Decimaler::e	Decimal nr 280 - 288	Relaxation Room : Wine Decanter (2)	437107539
+Kort med locus-visa locus	Decimaler::e	Decimal nr 289 - 297	Relaxation Room : Wine Glass (3)	077744992
+Kort med locus-visa locus	Decimaler::e	Decimal nr 298 - 306	Relaxation Room : Fruit Bowl (4)	069551702
+Kort med locus-visa locus	Decimaler::e	Decimal nr 307 - 315	Relaxation Room : Rest Chair (5)	761838606
+Kort med locus-visa locus	Decimaler::e	Decimal nr 316 - 324	Relaxation Room : Bookshelf (6)	261331384
+Kort med locus-visa locus	Decimaler::e	Decimal nr 325 - 333	Relaxation Room : Music Box (7)	583000752
+Kort med locus-visa locus	Decimaler::e	Decimal nr 334 - 342	Relaxation Room : Seahorse Fountain (8)	044933826
+Kort med locus-visa locus	Decimaler::e	Decimal nr 343 - 351	Relaxation Room : Purple Rug (9)	560297606
+Kort med locus-visa locus	Decimaler::e	Decimal nr 352 - 360	Relaxation Room : Pillows (10)	737113200
+Kort med locus-visa locus	Decimaler::e	Decimal nr 361 - 369	Relaxation Room : Playing Cards (11)	709328709
+Kort med locus-visa locus	Decimaler::e	Decimal nr 370 - 378	Relaxation Room : Turtle Painting (12)	127443747
+Kort med locus-visa locus	Decimaler::e	Decimal nr 379 - 387	Relaxation Room : Flower Pot (13)	047230696
+Kort med locus-visa locus	Decimaler::e	Decimal nr 388 - 396	Relaxation Room : Red Chair (14)	977209310
+Kort med locus-visa locus	Decimaler::e	Decimal nr 397 - 405	Relaxation Room : Chimes (15)	141692836
+Kort med locus-visa locus	Decimaler::e	Decimal nr 406 - 414	Artist's Workshop : Artist's Shelf (1)	819025515
+Kort med locus-visa locus	Decimaler::e	Decimal nr 415 - 423	Artist's Workshop : Painter Brush (2)	108657463
+Kort med locus-visa locus	Decimaler::e	Decimal nr 424 - 432	Artist's Workshop : Head Mold (3)	772111252
+Kort med locus-visa locus	Decimaler::e	Decimal nr 433 - 441	Artist's Workshop : Painted Turtle Shell (4)	389784425
+Kort med locus-visa locus	Decimaler::e	Decimal nr 442 - 450	Artist's Workshop : Paint Jars (5)	056953696
+Kort med locus-visa locus	Decimaler::e	Decimal nr 451 - 459	Artist's Workshop : Wrapped Canvas (6)	770785449
+Kort med locus-visa locus	Decimaler::e	Decimal nr 460 - 468	Artist's Workshop : Drawing Mannequin (7)	969967946
+Kort med locus-visa locus	Decimaler::e	Decimal nr 469 - 477	Artist's Workshop : Painter's Table (8)	864454905
+Kort med locus-visa locus	Decimaler::e	Decimal nr 478 - 486	Artist's Workshop : Paint Palette (9)	987931636
+Kort med locus-visa locus	Decimaler::e	Decimal nr 487 - 495	Artist's Workshop : Brushes (10)	889230098
+Kort med locus-visa locus	Decimaler::e	Decimal nr 496 - 504	Artist's Workshop : Palette Knife (11)	793127736
+Kort med locus-visa locus	Decimaler::e	Decimal nr 505 - 513	Artist's Workshop : Painter's Stand (12)	178215424
+Kort med locus-visa locus	Decimaler::e	Decimal nr 514 - 522	Artist's Workshop : Still Life Objects (13)	999229576
+Kort med locus-visa locus	Decimaler::e	Decimal nr 523 - 531	Artist's Workshop : Easel (14)	351482208
+Kort med locus-visa locus	Decimaler::e	Decimal nr 532 - 540	Artist's Workshop : Palace Painting (15)	269895193
+Kort med locus-visa locus	Decimaler::e	Decimal nr 541 - 549	Jewelry Workshop : Jewelry Stand (1)	668033182
+Kort med locus-visa locus	Decimaler::e	Decimal nr 550 - 558	Jewelry Workshop : Wrist Bracelet (2)	528869398
+Kort med locus-visa locus	Decimaler::e	Decimal nr 559 - 567	Jewelry Workshop : Golden Turtle (3)	496465105
+Kort med locus-visa locus	Decimaler::e	Decimal nr 568 - 576	Jewelry Workshop : Pearl Necklace (4)	820939239
+Kort med locus-visa locus	Decimaler::e	Decimal nr 577 - 585	Jewelry Workshop : Jewelry Shelf (5)	829488793
+Kort med locus-visa locus	Decimaler::e	Decimal nr 586 - 594	Jewelry Workshop : Gems (6)	320362509
+Kort med locus-visa locus	Decimaler::e	Decimal nr 595 - 603	Jewelry Workshop : Gold (7)	443117301
+Kort med locus-visa locus	Decimaler::e	Decimal nr 604 - 612	Jewelry Workshop : Jewelry Cabinet (8)	238197068
+Kort med locus-visa locus	Decimaler::e	Decimal nr 613 - 621	Jewelry Workshop : Hand Drill (9)	416140397
+Kort med locus-visa locus	Decimaler::e	Decimal nr 622 - 630	Jewelry Workshop : Scales (10)	019837679
+Kort med locus-visa locus	Decimaler::e	Decimal nr 631 - 639	Jewelry Workshop : Melting Furnace (11)	320683282
+Kort med locus-visa locus	Decimaler::e	Decimal nr 640 - 648	Jewelry Workshop : Clamps (12)	376464804
+Kort med locus-visa locus	Decimaler::e	Decimal nr 649 - 657	Jewelry Workshop : Box of Pearls (13)	295311802
+Kort med locus-visa locus	Decimaler::e	Decimal nr 658 - 666	Jewelry Workshop : Whetstone Table (14)	328782509
+Kort med locus-visa locus	Decimaler::e	Decimal nr 667 - 675	Jewelry Workshop : Magnifying Glass (15)	819455815
+Kort med locus-visa locus	Decimaler::e	Decimal nr 676 - 684	Jewelry Workshop : Ring Sketch (16)	301756717
+Kort med locus-visa locus	Decimaler::e	Decimal nr 685 - 693	Jewelry Workshop : Ring (17)	361332069
+Kort med locus-visa locus	Decimaler::e	Decimal nr 694 - 702	Jewelry Workshop : Jewelry Pilers (18)	811250996
+Kort med locus-visa locus	Decimaler::e	Decimal nr 703 - 711	Jewelry Workshop : Chair (19)	181881593
+Kort med locus-visa locus	Decimaler::e	Decimal nr 712 - 720	Jewelry Workshop : Jellyfish Lamp (20)	041690351
+Kort med locus-visa locus	Decimaler::e	Decimal nr 721 - 729	Kitchen : Supply Crates (1)	598888519
+Kort med locus-visa locus	Decimaler::e	Decimal nr 730 - 738	Kitchen : Veggie Basket (2)	345807273
+Kort med locus-visa locus	Decimaler::e	Decimal nr 739 - 747	Kitchen : Flour (3)	866738589
+Kort med locus-visa locus	Decimaler::e	Decimal nr 748 - 756	Kitchen : Prep Table (4)	422879228
+Kort med locus-visa locus	Decimaler::e	Decimal nr 757 - 765	Kitchen : Olive Oil (5)	499892086
+Kort med locus-visa locus	Decimaler::e	Decimal nr 766 - 774	Kitchen : Cutting Board (6)	805825749
+Kort med locus-visa locus	Decimaler::e	Decimal nr 775 - 783	Kitchen : Kitchen Knife (7)	279610484
+Kort med locus-visa locus	Decimaler::e	Decimal nr 784 - 792	Kitchen : Spices (8)	198444363
+Kort med locus-visa locus	Decimaler::e	Decimal nr 793 - 801	Kitchen : Shelf with Plates (9)	463244968
+Kort med locus-visa locus	Decimaler::e	Decimal nr 802 - 810	Kitchen : Fish Freezer (10)	487560233
+Kort med locus-visa locus	Decimaler::e	Decimal nr 811 - 819	Kitchen : Dirty Dishes (11)	624827041
+Kort med locus-visa locus	Decimaler::e	Decimal nr 820 - 828	Kitchen : Butter Maker (12)	978623209
+Kort med locus-visa locus	Decimaler::e	Decimal nr 829 - 837	Kitchen : Fishface Fireplace (13)	002160990
+Kort med locus-visa locus	Decimaler::e	Decimal nr 838 - 846	Kitchen : Pan (14)	235304369
+Kort med locus-visa locus	Decimaler::e	Decimal nr 847 - 855	Kitchen : Kettle (15)	941849146
+Kort med locus-visa locus	Decimaler::e	Decimal nr 856 - 864	Kitchen : Soup Pot (16)	314093431
+Kort med locus-visa locus	Decimaler::e	Decimal nr 865 - 873	Kitchen : Kitchen Tools (17)	738143640
+Kort med locus-visa locus	Decimaler::e	Decimal nr 874 - 882	Kitchen : Wood Oven (18)	546253152
+Kort med locus-visa locus	Decimaler::e	Decimal nr 883 - 891	Kitchen : Loaf of Bread (19)	096183690
+Kort med locus-visa locus	Decimaler::e	Decimal nr 892 - 900	Kitchen : Air Blower (20)	888707016
+Kort med locus-visa locus	Decimaler::e	Decimal nr 901 - 909	Theatre : Stage (1)	768396424
+Kort med locus-visa locus	Decimaler::e	Decimal nr 910 - 918	Theatre : Column Prop (2)	378140592
+Kort med locus-visa locus	Decimaler::e	Decimal nr 919 - 927	Theatre : Props Box (3)	714563549
+Kort med locus-visa locus	Decimaler::e	Decimal nr 928 - 936	Theatre : Masks (4)	061303107
+Kort med locus-visa locus	Decimaler::e	Decimal nr 937 - 945	Theatre : Theatre Seats (5)	208510383
+Kort med locus-visa locus	Decimaler::e	Decimal nr 946 - 954	Aquarium : Fish Tank (1)	750510115
+Kort med locus-visa locus	Decimaler::e	Decimal nr 955 - 963	Aquarium : Steps (2)	747704171
+Kort med locus-visa locus	Decimaler::e	Decimal nr 964 - 972	Aquarium : Fish Net (3)	898610687
+Kort med locus-visa locus	Decimaler::e	Decimal nr 973 - 981	Aquarium : Fish Food (4)	396965521
+Kort med locus-visa locus	Decimaler::e	Decimal nr 982 - 990	Aquarium : Bucket (5)	267154688
+Kort med locus-visa locus	Decimaler::e	Decimal nr 991 - 999	Fisherman's Room : Hammock (1)	957035035
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1000 - 1008	Fisherman's Room : Fishing Chest (2)	402123407
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1009 - 1017	Fisherman's Room : Tabacco Pipe (3)	849819334
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1018 - 1026	Fisherman's Room : Shark Hook (4)	321068170
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1027 - 1035	Fisherman's Room : Rope (5)	121005627
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1036 - 1044	Fisherman's Room : Harpoon (6)	880235193
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1045 - 1053	Fisherman's Room : Shark Trophy (7)	033224745
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1054 - 1062	Fisherman's Room : Fishing Net (8)	015853904
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1063 - 1071	Fisherman's Room : Fishing Rod (9)	730419957
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1072 - 1080	Fisherman's Room : Scuba Helmet (10)	777093503
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1081 - 1089	Sea Garden : Coral Grower (1)	660416997
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1090 - 1098	Sea Garden : Watering Can (2)	329725088
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1099 - 1107	Sea Garden : Sea Palm (3)	687696640
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1108 - 1116	Sea Garden : Algoe Tube (4)	355570716
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1117 - 1125	Sea Garden : Aqua Garden Bed (5)	226844716
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1126 - 1134	Sea Garden : Hand Rake (6)	256079882
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1135 - 1143	Sea Garden : Planter Table (7)	651787134
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1144 - 1152	Sea Garden : Garden Scissors (8)	195124665
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1153 - 1161	Sea Garden : Seeds (9)	201030592
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1162 - 1170	Sea Garden : Hand Digger (10)	123667719
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1171 - 1179	Royal Bedroom : Fish Bowl Stand (1)	432527867
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1180 - 1188	Royal Bedroom : Makeup Table (2)	539855894
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1189 - 1197	Royal Bedroom : Comb (3)	489697096
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1198 - 1206	Royal Bedroom : Hair Pin (4)	409754591
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1207 - 1215	Royal Bedroom : Perfume (5)	856956380
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1216 - 1224	Royal Bedroom : Makeup Chair (6)	236370162
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1225 - 1233	Royal Bedroom : Trident (7)	112047742
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1234 - 1242	Royal Bedroom : Work Desk (8)	722836489
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1243 - 1251	Royal Bedroom : Trident Stamp (9)	613422516
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1252 - 1260	Royal Bedroom : Nautilus Shell Cup (10)	445078182
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1261 - 1269	Royal Bedroom : Candle Holder (11)	442352948
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1270 - 1278	Royal Bedroom : Work Chair (12)	636372141
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1279 - 1287	Royal Bedroom : Bed (13)	740238893
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1288 - 1296	Royal Bedroom : Bedside Bench (14)	441247963
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1297 - 1305	Royal Bedroom : Royal Wardrobe (15)	574370263
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1306 - 1314	Kid's Room : Cradle (1)	755294448
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1315 - 1323	Kid's Room : Changing Table (2)	337998016
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1324 - 1332	Kid's Room : Baby Dresser (3)	125492278
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1333 - 1341	Kid's Room : Whale Rattle (4)	509257782
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1342 - 1350	Kid's Room : Toy Houses (5)	562092622
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1351 - 1359	Kid's Room : Play Table (6)	648326277
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1360 - 1368	Kid's Room : Toy Sward (7)	933386566
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1369 - 1377	Kid's Room : Matching Cubes Game (8)	481627725
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1378 - 1386	Kid's Room : Spinning Top (9)	164019105
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1387 - 1395	Kid's Room : Kid Bed (10)	900491644
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1396 - 1404	Kid's Room : Orca Plush Toy (11)	998289315
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1405 - 1413	Kid's Room : Mermaid Plush Toy (12)	056604725
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1414 - 1422	Kid's Room : Seahorse Spring (13)	802778631
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1423 - 1431	Kid's Room : Slide (14)	864155195
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1432 - 1440	Kid's Room : Ball (15)	653244258
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1441 - 1449	Wizardy Room : Seashell Staff (1)	698294695
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1450 - 1458	Wizardy Room : Reading Bench (2)	930801915
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1459 - 1467	Wizardy Room : Wizard Hat (3)	298721172
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1468 - 1476	Wizardy Room : Wizard Mantle (4)	556347546
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1477 - 1485	Wizardy Room : Whirpool (5)	396447910
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1486 - 1494	Wizardy Room : Hanging Shelves (6)	145904090
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1495 - 1503	Wizardy Room : Two Potions (7)	586298496
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1504 - 1512	Wizardy Room : Locked Tube (8)	791287406
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1513 - 1521	Wizardy Room : Chemistry Books (9)	870504895
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1522 - 1530	Wizardy Room : Crab Amulet (10)	858671747
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1531 - 1539	Wizardy Room : Potion Stand (11)	985466775
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1540 - 1548	Wizardy Room : Wooden Stove (12)	757320568
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1549 - 1557	Wizardy Room : Distiller (13)	128845920
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1558 - 1566	Wizardy Room : Potion Pot (14)	541334053
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1567 - 1575	Wizardy Room : Blackboard (15)	922000113
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1576 - 1584	Wizardy Room : Corner Desk (16)	786300945
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1585 - 1593	Wizardy Room : Waterproof Scroll (17)	560688166
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1594 - 1602	Wizardy Room : Chemical Container (18)	740016984
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1603 - 1611	Wizardy Room : Tablet Artifact (19)	205580403
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1612 - 1620	Wizardy Room : Sphere Lamp (20)	363795376
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1621 - 1629	Museum : Astrolabe Compass (1)	452030402
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1630 - 1638	Museum : Lifting Hook (2)	432256613
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1639 - 1647	Museum : Message in a Bottle (3)	527836951
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1648 - 1656	Museum : Anchor (4)	177883863
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1657 - 1665	Museum : Pirate Spyglass (5)	874439662
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1666 - 1674	Museum : Treasure Map (6)	532249850
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1675 - 1683	Museum : Rack Display (7)	654995886
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1684 - 1692	Museum : Pirate Hook (8)	234281899
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1693 - 1701	Museum : Pirate Hat (9)	707733276
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1702 - 1710	Museum : Mug with Coins (10)	171783928
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1711 - 1719	Museum : Cannon Balls (11)	034946501
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1720 - 1728	Museum : Sun Cover (12)	434558897
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1729 - 1737	Museum : Ship Bell (13)	071942586
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1738 - 1746	Museum : Cannon (14)	398772754
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1747 - 1755	Museum : Ship Ram (15)	710962953
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1756 - 1764	Museum : Rum Box (16)	741521115
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1765 - 1773	Museum : Paddle (17)	136835062
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1774 - 1782	Museum : Steering Wheel (18)	752602326
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1783 - 1791	Museum : Cork Life Jacket (19)	484728703
+Kort med locus-visa locus	Decimaler::e	Decimal nr 1792 - 1800	Museum : Ship Model (20)	920764310

@@ -1,7 +1,6 @@
 from mpmath import mp
 from random import randint
 import xml.etree.ElementTree as ET
-import os
 
 class InputError(Exception):
     """Exception raised for errors in the input.
@@ -177,7 +176,7 @@ def create_palace(fID, PAO = True):
 if __name__ == "__main__":
 	
 
-	Atlantis = create_palace(f"{os.getcwd()}/input_files/Atlantis.xml")
+	Atlantis = create_palace("./input_files/Atlantis.xml")
 	Atlantis.generate_decimals('e')
 	Atlantis.palace_to_anki(
 		deck_name = 'Decimaler::e',
@@ -188,7 +187,7 @@ if __name__ == "__main__":
 
 
 	skip_first = 2
-	Cyber_Egypt = create_palace(f"{os.getcwd()}/input_files/Cyber_Egypt.xml")
+	Cyber_Egypt = create_palace("./input_files/Cyber_Egypt.xml")
 	Cyber_Egypt.generate_decimals('pi',skip_first=skip_first)
 	Cyber_Egypt.palace_to_anki(
 		deck_name = 'Decimaler::π',
