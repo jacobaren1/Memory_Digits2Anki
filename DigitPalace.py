@@ -23,7 +23,7 @@ class Palace(object):
 		self.locus_list = []
 
 	def __str__(self):
-		return f"Memory Palace: {self.name} # loci: f{self.n_loci}"
+		return f"Memory Palace: {self.name} # loci: {self.n_loci}"
 
 	def display_info(self):
 		s = (f'{self.name} is a palace with {len(self.rooms)} rooms '
@@ -45,7 +45,7 @@ class PAO_palace(Palace):
 
 
 	def __str__(self):
-		return f"PAO Memory Palace: {self.name} # loci: f{self.n_loci}"
+		return f"PAO Memory Palace: {self.name} # loci: {self.n_loci}"
 
 	def palace_to_anki(self,deck_name,note_type,fID,n = 9, skipped_decimals = 0):
 		header = (
