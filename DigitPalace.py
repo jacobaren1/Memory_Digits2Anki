@@ -15,6 +15,9 @@ class InputError(Exception):
         self.message = message
 
 class Palace(object):
+	"""
+		The main palace consisting of rooms as subpalaces
+	"""
 
 	def __init__(self,name):
 		self.name = name
@@ -28,17 +31,44 @@ class Palace(object):
 	def display_info(self):
 		s = (f'{self.name} is a palace with {len(self.rooms)} rooms '
 			f'and a total of {self.n_loci} loci')
-		
 
 	def generate_locus_list(self):
+		#populates locus_list with all loci in the palace
+
 		for ri,room in self.rooms.items():
 
 			for li,locus in room.loci.items():
 
 				self.locus_list.append( locus.info )
 
+	def room_order_to_anki(self,deck_name = None,note_type='Bas (valbart omvänt kord)',fID=None,sep='\t'):
+		if deck_name is None:
+			deck_name = self.name
+		if fID is None:
+			fID = f"./txt_files_anki/{self.name}_to_anki.txt"
+
+		s = (
+			'#separator:tab\n'
+			'#html:true\n'
+			'#notetype column:1\n'
+			'#deck column:2\n'
+		)
+
+		for ri,(room_name,room) in enumerate(self.rooms.items()):
+			front = f'Room number {ri+1} in {self.name}'
+			back = f'{room_name} ({len(room.loci)} loci)'
+
+			s += sep.join([note_type,deck_name,front,back]) + '\n'
+
+		with open(fID,'w') as f:
+			f.write( s[:-1] )
+
 
 class PAO_palace(Palace):
+
+	"""
+		Palace class with special methods to 
+	"""
 
 	def __init__(self,name):
 		Palace.__init__(self,name)
@@ -47,28 +77,33 @@ class PAO_palace(Palace):
 	def __str__(self):
 		return f"PAO Memory Palace: {self.name} # loci: {self.n_loci}"
 
-	def palace_to_anki(self,deck_name,note_type,fID,n = 9, skipped_decimals = 0):
-		header = (
+	def palace_to_anki(self,deck_name,note_type,fID,n = 9, skipped_decimals = 0,sep='\t'):
+		
+		#initiating output string with header with metadata for anki-import
+		s = (
 			'#separator:tab\n'
 			'#html:true\n'
 			'#notetype column:1\n'
 			'#deck column:2\n'
 		)
-		s = ''
+
+		#loop over all rooms in the palace
 		for r,room in self.rooms.items():
 
+			#loop over all loci in each room
 			for l,locus in room.loci.items():
 
+				#
 				x = n*locus.total_order + skipped_decimals
 				
 				front = f'Decimal nr {x+1} - {x+n}'
 				locus_str = f'{r} : {l} ({locus.room_order+1})'
 				back = locus.info
 
-				s += '\t'.join([note_type,deck_name,front,locus_str,back]) + '\n'
+				s += sep.join([note_type,deck_name,front,locus_str,back]) + '\n'
 
 		with open(fID,'w',encoding='utf-8') as f:
-			f.write(header + s[:-1])
+			f.write(s[:-1])
 
 	def generate_decimals(self,number = 'pi', n=9, skip_first=0):
 
@@ -125,7 +160,6 @@ class PAO_palace(Palace):
 				print(f"\tNOOB, You guessed wrong! Correct answer is {corr_guess}!\n\n")
 
 			self.guess_before_after()
-
 
 class Room(object):
 

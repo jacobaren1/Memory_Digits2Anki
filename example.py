@@ -38,4 +38,8 @@ if __name__ == "__main__":
 
 	print("---- File successfully created ----\n")
 
+
+	Cyber_Egypt.room_order_to_anki()
+	Atlantis.room_order_to_anki()
+
 	print("---- End of script ----\n\n")
