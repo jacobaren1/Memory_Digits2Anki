@@ -1,5 +1,4 @@
 from mpmath import mp
-from random import randint
 import xml.etree.ElementTree as ET
 
 class InputError(Exception):
@@ -39,11 +38,11 @@ class Palace(object):
 
 			for li,locus in room.loci.items():
 
-				self.locus_list.append( locus.info )
+				self.locus_list.append( locus )
 
-	def room_order_to_anki(self,deck_name = None,note_type='Bas (valbart omvänt kord)',fID=None,sep='\t'):
+	def room_order_to_anki(self,deck_name = None,note_type='Bas (och omvänt)',fID=None,sep='\t'):
 		if deck_name is None:
-			deck_name = self.name
+			deck_name = f'PalacesOrder::{self.name}'
 		if fID is None:
 			fID = f"./txt_files_anki/{self.name}_to_anki.txt"
 
@@ -123,43 +122,12 @@ class PAO_palace(Palace):
 				locus.info = digits[n*x:n*(x+1)]
 				x+=1
 
+	def get_sequens(self,x):
+		if self.locus_list == []:
+			self.generate_locus_list()
+		return self.locus_list[x].info
 
-	def guess_before_after(self):
-
-		guess_next = bool(randint(0,2))
-		shift = guess_next - (guess_next==0)
-
-		int_ref = randint(0,self.n_loci + 1)
-		int_guess = int_ref + shift
-
-		
-		if int_guess == self.n_loci:
-			
-			int_ref = 1
-			int_guess = 0
-			guess_next = False
-
-		elif int_guess == -1:
-			
-			int_ref = n_loci - 2
-			int_guess = n_loci - 1
-			guess_next = True
-
-		before_after = ["before","after"][guess_next]
-		ref_value = self.locus_list[int_ref]
-		corr_guess = self.locus_list[int_guess]
-
-		msg = "What decimals comes %s %s? (enter x to quit)\n\t" %(before_after,ref_value)
-		ans = input( msg )
-		if ans == 'x':
-			pass
-		else:
-			if ans == corr_guess:
-				print(f"\tNice work! {ans} comes {before_after} {ref_value}\n\n")
-			else:
-				print(f"\tNOOB, You guessed wrong! Correct answer is {corr_guess}!\n\n")
-
-			self.guess_before_after()
+	
 
 class Room(object):
 
