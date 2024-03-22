@@ -66,7 +66,8 @@ class Palace(object):
 class PAO_palace(Palace):
 
 	"""
-		Palace class with special methods to 
+		Palace class with special methods for generating numbers memorized with
+		Person-Action-Object-method
 	"""
 
 	def __init__(self,name):
