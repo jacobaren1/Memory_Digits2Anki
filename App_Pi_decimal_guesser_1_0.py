@@ -10,6 +10,7 @@ class Master(object):
         self.root = tk.Tk()
         self.root.title('Test decimals of π!')
         self.root.geometry('400x400')
+        self.root.iconbitmap('pi.ico')
         self.root.configure(background='')
         self.MP = MP
         self.player = Player()
@@ -271,8 +272,6 @@ class Player(object):
             return f'{self.ratio:.2%}'
 
     def str_final_score(self):
-        ratio = self.score/self.games_played
-
         if self.score == 0:
             line0 = f'''Well fought, {self.name}!'''
         elif ratio == 1:
@@ -280,10 +279,16 @@ class Player(object):
         else:
             line0 = f'''Well done, {self.name}!'''
 
-        line1 = f'''You played {self.games_played} and made {self.score} correct guesses'''
+        line1 = f'''You played {self.games_played} games and made {self.score} correct guesses'''
         line2 = f'''You guessed right in {self.ratio_str()} of the games!'''
         
-        return f'''{line0}\n\t{line1}\n\t{line2}'''
+
+        msg = f'''{line0}\n\t{line1}\n\t{line2}'''
+
+        if self.games_played == 1: msg.replace('games','game')
+        if self.score == 1: msg.replace('guesses','guess')
+
+        return msg
 
 
 
